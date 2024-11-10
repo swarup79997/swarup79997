@@ -1,3 +1,5 @@
+![Banner](https://github.com/swarup79997/swarup79997/blob/main/CHENNURU%20SWARUP%20(1).png)
+
 <h1 align="center">Hi 👋, I'm Chennuru Swarup Kumar Reddy</h1>
 <h3 align="center">Entry-Level Software Developer with a Passion for Programming and Project Innovation</h3>
 
